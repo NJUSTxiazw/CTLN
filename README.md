@@ -2,4 +2,4 @@ Paper: "Inferring brain causal and temporal-lag networks for recognizing abnorma
 
 The source code will be released after paper accepted.
 
-//[Structure of CTLN](CTLN.png)
+![](https://github.com/NJUSTxiazw/CTLN/blob/main/CTLN.png)
